@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">byks</string>
+    <string name="button">Начать!</string>
+    <string name="text">Угадай число!</string>
+    <string name="input">Введите число</string>
+    <string name="output">Результат</string>
+</resources>
