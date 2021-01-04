@@ -1536,6 +1536,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable cow
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1669,6 +1670,9 @@ id bottom
 id bounce
 id button
 id button2
+id button3
+id button4
+id button5
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1727,6 +1731,7 @@ id easeIn
 id easeInOut
 id easeOut
 id editTextNumber
+id editTextNumber2
 id edit_query
 id end
 id enterAlways
@@ -1752,6 +1757,11 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id guideline
+id guideline11
+id guideline12
+id guideline2
+id guideline3
 id hideable
 id home
 id homeAsUp
@@ -1762,6 +1772,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView2
 id info
 id invisible
 id italic
@@ -1855,6 +1866,7 @@ id scroll
 id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
+id scrollView2
 id scrollable
 id search_badge
 id search_bar
@@ -1919,10 +1931,17 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView11
+id textView12
+id textView13
 id textView2
 id textView3
 id textView4
 id textView5
+id textView6
+id textView7
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1952,6 +1971,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id vertical
 id view_offset_helper
 id visible
 id withText
@@ -2021,6 +2041,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_second_page
+layout activity_test
 layout cell
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2072,6 +2093,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout secondpage2
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2120,6 +2142,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string answer
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
@@ -2129,10 +2152,13 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string editNumbers
+string editText
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string guess
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string input
@@ -2183,6 +2209,7 @@ string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
 string text
+string title
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

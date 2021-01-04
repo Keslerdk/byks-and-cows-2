@@ -4,4 +4,9 @@
     <string name="text">Угадай число!</string>
     <string name="input">Введите число</string>
     <string name="output">Результат</string>
+    <string name="editText">введите 4х-значное число</string>
+    <string name="editNumbers">1234</string>
+    <string name="guess">Проверить</string>
+    <string name="title">Быки и Коровы</string>
+    <string name="answer">Ответ</string>
 </resources>

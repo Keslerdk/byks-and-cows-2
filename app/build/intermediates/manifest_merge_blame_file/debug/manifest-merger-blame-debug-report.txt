@@ -11,7 +11,7 @@
 9-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:5:5-20:19
+11-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:5:5-21:19
 12        android:allowBackup="true"
 12-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,23 +28,26 @@
 19        android:testOnly="true"
 20        android:theme="@style/Theme.Byks" >
 20-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:11:9-42
-21        <activity android:name="com.example.byks.SecondPage" />
-21-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:12:9-57
-21-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:12:19-45
-22        <activity android:name="com.example.byks.MainActivity" >
-22-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:13:9-19:20
-22-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:13:19-47
-23            <intent-filter>
-23-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:14:13-18:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:15:17-69
-24-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:15:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:17:17-77
-26-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:17:27-74
-27            </intent-filter>
-28        </activity>
-29    </application>
-30
-31</manifest>
+21        <activity android:name="com.example.byks.test" />
+21-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:12:9-51
+21-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:12:19-39
+22        <activity android:name="com.example.byks.SecondPage" />
+22-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:13:9-48
+22-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:13:19-45
+23        <activity android:name="com.example.byks.MainActivity" >
+23-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:14:9-20:20
+23-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:14:19-47
+24            <intent-filter>
+24-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:16:17-69
+25-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:18:17-77
+27-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>
