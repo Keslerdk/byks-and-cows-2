@@ -9,4 +9,7 @@
     <string name="guess">Проверить</string>
     <string name="title">Быки и Коровы</string>
     <string name="answer">Ответ</string>
+    <string name="rules">Правила</string>
+    <string name="exit">Выход</string>
+    <string name="hint">Подсказка</string>
 </resources>

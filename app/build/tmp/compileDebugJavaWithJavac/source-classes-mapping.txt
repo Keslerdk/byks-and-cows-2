@@ -1,6 +1,8 @@
 com/example/byks/test.java
  com.example.byks.test
  com.example.byks.test$1
+com/example/byks/BuildConfig.java
+ com.example.byks.BuildConfig
 com/example/byks/generation.java
  com.example.byks.generation
 com/example/byks/SecondPage.java
@@ -8,7 +10,10 @@ com/example/byks/SecondPage.java
  com.example.byks.SecondPage$1
  com.example.byks.SecondPage$2
  com.example.byks.SecondPage$2$1
+ com.example.byks.SecondPage$3
+ com.example.byks.SecondPage$4
+ com.example.byks.SecondPage$5
+com/example/byks/Rules.java
+ com.example.byks.Rules
 com/example/byks/MainActivity.java
  com.example.byks.MainActivity
-com/example/byks/BuildConfig.java
- com.example.byks.BuildConfig

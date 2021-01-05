@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Byks">
-        <activity android:name=".test"></activity>
+        <activity android:name=".Rules">  </activity>
+        <activity android:name=".test" />
         <activity android:name=".SecondPage" />
         <activity android:name=".MainActivity">
             <intent-filter>

@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Byks" >
+        <activity android:name="com.example.byks.Rules" >
+        </activity>
         <activity android:name="com.example.byks.test" />
         <activity android:name="com.example.byks.SecondPage" />
         <activity android:name="com.example.byks.MainActivity" >

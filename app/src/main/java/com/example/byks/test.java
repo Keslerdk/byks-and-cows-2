@@ -30,4 +30,8 @@ public class test extends AppCompatActivity {
         AlertDialog alert = builder.create();
         alert.show();
     }
+    public void onBackPressed(View view) {
+        moveTaskToBack(true);
+        android.os.Process.killProcess(android.os.Process.myPid());
+        System.exit(1); }
 }

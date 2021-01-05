@@ -1578,6 +1578,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable restart3
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1673,6 +1674,10 @@ id button2
 id button3
 id button4
 id button5
+id button6
+id button7
+id button8
+id button9
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1772,6 +1777,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageButton4
 id imageView2
 id info
 id invisible
@@ -1931,9 +1937,11 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView10
 id textView11
 id textView12
 id textView13
+id textView14
 id textView2
 id textView3
 id textView4
@@ -2040,6 +2048,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_rules
 layout activity_second_page
 layout activity_test
 layout cell
@@ -2155,11 +2164,13 @@ string clear_text_end_icon_content_description
 string editNumbers
 string editText
 string error_icon_content_description
+string exit
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string guess
 string hide_bottom_view_on_scroll_behavior
+string hint
 string icon_content_description
 string input
 string item_view_role_description
@@ -2206,6 +2217,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string rules
 string search_menu_title
 string status_bar_notification_info_overflow
 string text
