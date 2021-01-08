@@ -22,14 +22,15 @@
 
     <ScrollView
         android:id="@+id/scrollView2"
-        android:layout_width="394dp"
+        android:layout_width="0dp"
         android:layout_height="511dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="84dp"
         android:background="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView12">
+        app:layout_constraintTop_toBottomOf="@+id/editTextNumber2">
 
         <LinearLayout
             android:id="@+id/vertical"
@@ -41,9 +42,10 @@
     <TextView
         android:id="@+id/textView11"
         android:layout_width="wrap_content"
-        android:layout_height="36dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginTop="8dp"
         android:background="#FFFFFF"
         android:text="@string/input"
         android:textSize="24sp"
@@ -52,25 +54,22 @@
 
     <TextView
         android:id="@+id/textView12"
-        android:layout_width="248dp"
-        android:layout_height="56dp"
-        android:layout_marginStart="80dp"
-        android:layout_marginLeft="80dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="84dp"
+        android:layout_marginLeft="84dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="190dp"
         android:text="@string/text"
         android:textSize="36sp"
-        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_chainStyle="packed" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView13"
-        android:layout_width="114dp"
-        android:layout_height="37dp"
-        android:layout_marginEnd="32dp"
-        android:layout_marginRight="32dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="36dp"
+        android:layout_marginRight="36dp"
         android:text="@string/output"
         android:textSize="24sp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView11"
@@ -78,10 +77,10 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="143dp"
-        android:layout_height="51dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginRight="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
         android:text="@string/guess"
         app:backgroundTint="#FF7230"
         app:layout_constraintBaseline_toBaselineOf="@+id/editTextNumber2"
@@ -89,19 +88,18 @@
 
     <EditText
         android:id="@+id/editTextNumber2"
-        android:layout_width="189dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView11"
+        app:layout_constraintStart_toStartOf="@+id/textView11"
         app:layout_constraintTop_toBottomOf="@+id/textView11" />
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="84dp"
-        android:layout_height="45dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:text="@string/answer"
@@ -124,8 +122,8 @@
 
     <Button
         android:id="@+id/button9"
-        android:layout_width="152dp"
-        android:layout_height="44dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginEnd="12dp"
         android:layout_marginRight="12dp"
         android:layout_marginBottom="8dp"

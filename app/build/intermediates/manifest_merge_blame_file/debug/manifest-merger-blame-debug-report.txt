@@ -17,12 +17,12 @@
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.3.1] /home/kesler/.gradle/caches/transforms-2/files-2.1/c560b8721f05ca12656603dd382025ab/core-1.3.1/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:7:9-43
+15        android:icon="@mipmap/cow"
+15-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:7:9-35
 16        android:label="@string/app_name"
 16-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:8:9-41
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:9:9-54
+17        android:roundIcon="@mipmap/cow_round"
+17-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:9:9-46
 18        android:supportsRtl="true"
 18-->/home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:10:9-35
 19        android:testOnly="true"

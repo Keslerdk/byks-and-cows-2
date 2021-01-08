@@ -66,9 +66,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kesle
 	android:label
 		ADDED from /home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:9:9-46
 	android:icon
-		ADDED from /home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:7:9-35
 	android:allowBackup
 		ADDED from /home/kesler/AndroidStudioProjects/byks/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
